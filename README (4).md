@@ -658,15 +658,11 @@ Your support is appreciated!
 
 # 👨‍💻 Author
 
-## Hadeed Jalani
+## vikas yadav
 
 Computer Vision & AI Project
 
 <p align="left">
-
-**GitHub:** [@HadeedJalani](https://github.com/HadeedJalani)
-
-**Repository:** [FaceMask-Detection-AI](https://github.com/HadeedJalani/FaceMask-Detection-AI)
 
 </p>
 
