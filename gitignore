@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.DS_Store
+.vscode/
+.idea/
+
+# Runtime artifacts
+output/*
+!output/.gitkeep
+videos/*
+!videos/.gitkeep
+models/*.pt
+models/*.onnx
+models/*.engine
+
+# Ultralytics runs/cache
+runs/
+Ultralytics/
+*.cache
