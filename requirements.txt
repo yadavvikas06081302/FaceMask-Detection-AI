@@ -1,0 +1,6 @@
+numpy>=1.26,<2.1
+opencv-python>=4.9
+tensorflow>=2.16,<2.21
+keras>=3.3,<3.11
+h5py>=3.10
+requests>=2.31
