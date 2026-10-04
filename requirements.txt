@@ -1,2 +1,5 @@
+streamlit
 opencv-python-headless
 numpy>=1.24,<3
+ultralytics
+Pillow
