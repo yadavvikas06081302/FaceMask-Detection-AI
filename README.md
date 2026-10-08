@@ -86,6 +86,9 @@ dataset/without_mask/
 
 Then use `train.py` as the starting point for your own model-training pipeline.
 
+## Demo
+https://facemask-detection-ai-qml7clacrdxemuhxwcsvze.streamlit.app/
+
 ## Author
 
 **Vikas Yadav**
